@@ -1,0 +1,9 @@
+#ifndef INCLUDED_EigenAdditional_Csv
+#define INCLUDED_EigenAdditional_Csv
+
+#include "../Eigen/Core"
+#include "csv_util.h"
+#include "csv_util.cpp"
+#include "eigen_csv_util.cpp"
+
+#endif
